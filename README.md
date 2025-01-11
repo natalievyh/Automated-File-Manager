@@ -19,12 +19,12 @@ Install Python if you haven't already: https://www.python.org/downloads/
 
 ## Before: 
 <p align="center">
-  <img src="images/before.png" alt="Directory before running the script"/>
+  <img src="images/before.png" alt="Directory before running the script" width=400px/>
 </p>
 
 ## After: 
 <p align="center">
-  <img src="images/after.png" alt="Directory after running the script"/>
+  <img src="images/after.png" alt="Directory after running the script" width=400px/>
 </p>
 
 ## Requirements:
